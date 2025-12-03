@@ -1,2 +1,2 @@
-# MIS310
+# 5th-Repo
 In the individual assignment 4, tkinter is imported as well as stringvar. Then the main window is created using tk. The size and name of the window are imported. The variables are then imported and 3 functions are created to support the buttons that are going to be imported. The GUI is then created by inputing the top frame to support the input_text field widget as long with a entry widget to be put in the frame. The buttons are then created on each row with the numbers and symbols that will be imported into the calculator. To do this tk_button is used. After all buttons are created the function is called with the main_window.mainloop().
